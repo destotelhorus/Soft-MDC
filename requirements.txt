@@ -1,0 +1,8 @@
+websocket
+websocket-client
+argparse
+inquirer
+pyproj
+six
+ruamel.std.zipfile
+ply
